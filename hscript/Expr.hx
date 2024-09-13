@@ -1,3 +1,3 @@
 package hscript;
 
-typedef Expr = hscript.Expr;
+typedef Expr = crowplexus.hscript.Expr;
